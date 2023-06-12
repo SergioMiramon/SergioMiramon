@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sergio Miramon</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">Student starting to create my own projects</h3>
 
 - 🌱 I’m currently learning **React JS, Typescript**
