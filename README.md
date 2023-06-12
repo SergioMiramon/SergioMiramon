@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">Student starting to create my own projects</h3>
+<h3 align="center">I´m Sergio Miramon, a student starting to create my own projects</h3>
 
 - 🌱 I’m currently learning **React JS, Typescript**
 
