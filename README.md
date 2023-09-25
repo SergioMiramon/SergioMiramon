@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">I´m Sergio Miramon, a student starting to create my own projects</h3>
 
-- 🌱 I’m currently learning **React JS, Typescript**
+- 🌱 I’m currently learning **React JS, Mongo DB**
 - 💻 See my portfolio at https://portfolio-murex-psi-18.vercel.app/
 - 📡 You can contact with me at smiramon8@gmail.com
 - ⚔ Fond of music, photography and the seventh art
