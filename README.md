@@ -1,9 +1,52 @@
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">I´m Sergio Miramon, a student starting to create my own projects</h3>
+<h1 align="center">👋 Hi there! I'm Sergio</h1>
 
-- 🌱 I’m currently learning **React JS, Mongo DB**
-- 💻 See my portfolio at https://portfolio-murex-psi-18.vercel.app/
-- 📡 You can contact with me at smiramon8@gmail.com
-- ⚔ Fond of music, photography and the seventh art
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> </p>
+I'm a **Full Stack Developer and DevOps Engineer in continuous learning**, with experience in deployment automation, cloud environment management, and web development using modern technologies.
+
+---
+
+## 🚀 Technologies I Work With
+
+### 💻 Web Development
+- **Frontend**: React, JavaScript (ES6+), HTML5, CSS3  
+- **Backend**: Node.js, Express.js, Python, Django  
+- **Databases**: MongoDB (NoSQL), basic SQL  
+- **RESTful APIs**: Design, authentication, middlewares, CRUD operations
+
+### ⚙️ DevOps & Cloud
+- **CI/CD**: GitLab CI/CD, Jenkins  
+- **Version Control**: Git, GitHub, GitLab, Bitbucket  
+- **Containers**: Docker
+- **SAP Cloud**: SAP BTP Cockpit, SAP Datasphere, SAP Analytics Cloud, SAP Cloud Connector
+
+### 🌐 Networking & Automation
+- Deployment automation with **Cisco NSO**
+
+---
+
+## 🧠 Experience
+
+- **1+ year** working in DevOps environments: pipelines, automation, containers, and SAP Cloud platform administration.  
+- **1+ year** developing full stack web projects (MERN, Django + React).  
+- Currently working at **Telefónica** as a **DevOps / Release Engineer**.
+
+---
+
+## 📌 Currently...
+
+- Building a full stack web application using **React** (frontend) and **Django** (backend).  
+- Deepening best practices in backend development with Python and network service deployment automation.  
+- Always open to collaborating on exciting projects, especially related to DevOps, automation, and web development.
+
+---
+
+## 📫 Get in Touch
+
+Contact me:
+
+- 📧 [smiramon8@gmail.com]  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sergio-miram%C3%B3n-martinez)  
+<!-- - 🌐 [Portfolio](https://) -->
+
+---
+
+Thanks for stopping by — see you in the code! 👨‍💻
