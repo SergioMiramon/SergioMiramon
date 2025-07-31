@@ -25,9 +25,9 @@ I'm a **Full Stack Developer and DevOps Engineer in continuous learning**, with 
 
 ## 🧠 Experience
 
+- **2+ year** developing full stack web projects (MERN, Django + React).  
 - **1+ year** working in DevOps environments: pipelines, automation, containers, and SAP Cloud platform administration.  
-- **1+ year** developing full stack web projects (MERN, Django + React).  
-- Currently working at **Telefónica** as a **DevOps / Release Engineer**.
+- Currently working as a **DevOps / Release Engineer**.
 
 ---
 
